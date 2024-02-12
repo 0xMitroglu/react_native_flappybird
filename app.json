@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "1_hr_react_native_flappybird",
-    "slug": "1_hr_react_native_flappybird",
+    "name": "flappybird",
+    "slug": "flappybird",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/flappy-bird.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jonathan.flappybird"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ea6dce3e-4ef1-4b3a-bcb9-b7310dd10053"
+      }
     }
   }
 }
