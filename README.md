@@ -1,6 +1,6 @@
 # 🐦 React Native Flappy Bird  
 
-![Flappy Bird Screenshot]([https://via.placeholder.com/1200x600.png?text=Flappy+Bird+Game](https://www.burlingtoncountytimes.com/gcdn/authoring/2014/02/07/NBCO/ghows-PA-3600dad6-bb5a-4c4a-b4d6-4e3c58c4aa81-92863afe.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp))  
+![Flappy Bird Screenshot](https://i.imgur.com/oxEcv3Q.png)
 
 ## 📖 About  
 This is a **Flappy Bird clone** built with **React Native**. It features simple, addictive gameplay where players control a bird trying to fly between pipes without crashing.  
